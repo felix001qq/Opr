@@ -1,6 +1,6 @@
 [
-  { "user": "fuck", "pass": "you", "type": "vip" },
-  { "user": "scammer", "pass": "it's you", "type": "vip" },
-  { "user": "ab", "pass": "3", "type": "vip" },
-  { "user": "felix", "pass": "4", "type": "vip" }
+  { "user": "new", "pass": "mod", "type": "vip" },
+  { "user": "auto", "pass": "update", "type": "vip" },
+  { "user": "auto", "pass": "3", "type": "vip" },
+  { "user": "update", "pass": "4", "type": "vip" }
 ]
