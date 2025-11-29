@@ -1,5 +1,5 @@
 [
-  { "user": "new", "pass": "mod", "type": "vip" },
+  { "user": "Felix", "pass": "Nill", "type": "vip" },
   { "user": "auto", "pass": "update", "type": "vip" },
   { "user": "auto", "pass": "3", "type": "vip" },
   { "user": "update", "pass": "4", "type": "vip" }
